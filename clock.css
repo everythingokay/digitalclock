@@ -1,0 +1,15 @@
+#wrapper {
+    width: 500px;
+    margin: 100px auto auto 100px;
+    border: solid 3px #000000;
+}
+
+#clock {
+    background-color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    color: #66ff99;
+    font-size: 85px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
